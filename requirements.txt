@@ -1,2 +1,12 @@
-import streamlit as st
-from langchain 
+streamlit
+langchain>=0.1.0
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+chromadb
+huggingface_hub
+python-dotenv
+PyPDF2
+pypdf
